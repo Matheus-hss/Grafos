@@ -1,7 +1,4 @@
----
-Formação Cientista de Dados - Prof. Fernando Amaral
-Visualização
----
+
 ```{r}
 #install.packages("igraph")
 library(igraph)
@@ -41,4 +38,5 @@ Grafo interativo
 grafo8 = read_graph("Grafo.graphml", format = c("graphml"))
 tkplot(grafo8)
 ```
+
 
