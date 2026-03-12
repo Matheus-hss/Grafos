@@ -1,7 +1,3 @@
----
-Formação Cientista de Dados - Prof. Fernando Amaral
-Comunidades e Cliques
----
 
 ```{r}
 #install.packages("igraph")
@@ -40,4 +36,5 @@ cli = cliques(as.undirected(grafo8), min=4)
 length(cli)
 cli
 ```
+
 
