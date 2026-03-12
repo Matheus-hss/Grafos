@@ -1,7 +1,3 @@
----
-Formação Cientista de Dados - Prof. Fernando Amaral
-Métricas
----
 
 ```{r}
 #install.packages("igraph")
@@ -47,4 +43,5 @@ edge_density(grafo8)
 grafo9 = grafo8
 isomorphic(grafo8,grafo9)
 ```
+
 
