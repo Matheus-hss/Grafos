@@ -1,7 +1,4 @@
----
-Formação Cientista de Dados - Prof. Fernando Amaral
-Grafos Clássicos
----
+
 
 ```{r}
 #install.packages("igraph")
@@ -33,3 +30,4 @@ comun=cluster_edge_betweenness(UKfaculty, directed = F)
 plot(comun,UKfaculty)
 
 ```
+
