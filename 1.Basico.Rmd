@@ -1,7 +1,4 @@
----
-Formação Cientista de Dados - Prof. Fernando Amaral
-Básico
----
+
 
 ```{r}
 #install.packages("igraph")
@@ -110,4 +107,5 @@ grafo7
 V(grafo7)$type ="Humanos"
 grafo7
 ```
+
 
